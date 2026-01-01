@@ -1,15 +1,15 @@
 {
-  "version": "1.0",
-  "last_updated": "2026-01-30",
   "licenses": [
     {
-      "key": "YT-PRO-DEMO12345600",
-      "type": "demo",
-      "user_id": "DEMO_USER",
-      "activated_date": "2024-01-01",
-      "expiry_date": "2099-12-31",
-      "max_quality": "4320p",
-      "features": ["8k_downloads", "unlimited", "no_ads"]
+      "key": "YT-RIHO-ICAO-T319-ZP2H",
+      "type": "premium",
+      "status": "active",
+      "created_date": "2026-01-01",
+      "expiry_date": "2027-01-01",
+      "used_by": null,
+      "used_date": null,
+      "max_downloads": 1000,
+      "downloads_used": 0
     }
   ]
 }
