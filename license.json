@@ -1,0 +1,13 @@
+{
+  "licensed_users": [
+    "USER_ABC123DEF456",
+    "USER_XYZ789GHI012"
+  ],
+  "valid_until": "2026-12-31",
+  "plan": "premium",
+  "features": [
+    "8k_downloads",
+    "batch_processing",
+    "priority_support"
+  ]
+}
