@@ -1,13 +1,15 @@
 {
-  "licensed_users": [
-    "USER_ABC123DEF456",
-    "USER_XYZ789GHI012"
-  ],
-  "valid_until": "2026-12-31",
-  "plan": "premium",
-  "features": [
-    "8k_downloads",
-    "batch_processing",
-    "priority_support"
+  "version": "1.0",
+  "last_updated": "2026-01-30",
+  "licenses": [
+    {
+      "key": "YT-PRO-DEMO12345600",
+      "type": "demo",
+      "user_id": "DEMO_USER",
+      "activated_date": "2024-01-01",
+      "expiry_date": "2099-12-31",
+      "max_quality": "4320p",
+      "features": ["8k_downloads", "unlimited", "no_ads"]
+    }
   ]
 }
