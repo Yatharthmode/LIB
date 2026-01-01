@@ -1,0 +1,99 @@
+{
+  "licenses": [
+    {
+      "key": "YT-I6YN-BRFQ-4ARU-1QQQ",
+      "type": "premium",
+      "status": "active",
+      "created_date": "2026-01-01",
+      "expiry_date": "2027-01-01",
+      "used_by": null,
+      "used_date": null,
+      "max_downloads": 1000,
+      "downloads_used": 0,
+      "features": [
+        "720p",
+        "1080p",
+        "1440p",
+        "2160p (4K)",
+        "1000 downloads",
+        "Selected duration"
+      ]
+    },
+    {
+      "key": "YT-GIPE-97SR-2LW1-M7ZY",
+      "type": "premium",
+      "status": "active",
+      "created_date": "2026-01-01",
+      "expiry_date": "2027-01-01",
+      "used_by": null,
+      "used_date": null,
+      "max_downloads": 1000,
+      "downloads_used": 0,
+      "features": [
+        "720p",
+        "1080p",
+        "1440p",
+        "2160p (4K)",
+        "1000 downloads",
+        "Selected duration"
+      ]
+    },
+    {
+      "key": "YT-IS2P-C2H3-QYUA-VUG0",
+      "type": "premium",
+      "status": "active",
+      "created_date": "2026-01-01",
+      "expiry_date": "2027-01-01",
+      "used_by": null,
+      "used_date": null,
+      "max_downloads": 1000,
+      "downloads_used": 0,
+      "features": [
+        "720p",
+        "1080p",
+        "1440p",
+        "2160p (4K)",
+        "1000 downloads",
+        "Selected duration"
+      ]
+    },
+    {
+      "key": "YT-0R5A-LKQK-AKLJ-OTOB",
+      "type": "premium",
+      "status": "active",
+      "created_date": "2026-01-01",
+      "expiry_date": "2027-01-01",
+      "used_by": null,
+      "used_date": null,
+      "max_downloads": 1000,
+      "downloads_used": 0,
+      "features": [
+        "720p",
+        "1080p",
+        "1440p",
+        "2160p (4K)",
+        "1000 downloads",
+        "Selected duration"
+      ]
+    },
+    {
+      "key": "YT-YDIF-BRWB-1YFB-1N6B",
+      "type": "premium",
+      "status": "active",
+      "created_date": "2026-01-01",
+      "expiry_date": "2027-01-01",
+      "used_by": null,
+      "used_date": null,
+      "max_downloads": 1000,
+      "downloads_used": 0,
+      "features": [
+        "720p",
+        "1080p",
+        "1440p",
+        "2160p (4K)",
+        "1000 downloads",
+        "Selected duration"
+      ]
+    }
+  ]
+}
