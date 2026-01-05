@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "title": "🎉 Premium License Active!",
-    "message": "Congratulations! Your premium license is now active. Enjoy unlimited HD/4K downloads, priority support, and ad-free experience.",
+    "title": "⏰ 24 Hours Special Offer!",
+    "message": "Sirf 24 ghante ke liye 💥 Premium sirf ₹499! Unlimited HD/4K downloads, ultra-fast speed, zero ads aur priority support. Ye offer kal expire ho jayega — baad me price increase hoga. Abhi upgrade karo aur lifetime jaisa experience lo!",
     "type": "info",
     "priority": "ads",
     "created_date": "2026-01-04 13:00:00",
-    "expiry_date": "2026-01-11 13:00:00",
+    "expiry_date": "2026-01-05 13:00:00",
     "active": true,
     "shown_count": 0,
     "link_url": "https://yt-dowloader.netlify.app/"
