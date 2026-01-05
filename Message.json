@@ -2,13 +2,13 @@
   {
     "id": 1,
     "title": "UPDATE",
-    "message": "ULTRA",
-    "type": "info",
-    "priority": "normal",
-    "created_date": "2026-01-04 06:06:40",
-    "expiry_date": "2026-01-11 06:06:40",
+    "message": "UPDATE",
+    "type": "warning",
+    "priority": "urgent",
+    "created_date": "2026-01-04 19:54:58",
+    "expiry_date": "2026-01-11 19:54:58",
     "active": true,
-    "shown_count": 3
-    "link_url": "https://web.whatsapp.com/"
+    "shown_count": 0,
+    "link_url": ""
   }
 ]
