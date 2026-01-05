@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "title": "UPDATE",
-    "message": "UPDATE",
-    "type": "warning",
-    "priority": "urgent",
-    "created_date": "2026-01-04 19:54:58",
-    "expiry_date": "2026-01-11 19:54:58",
+    "title": "🎉 Premium License Active!",
+    "message": "Congratulations! Your premium license is now active. Enjoy unlimited HD/4K downloads, priority support, and ad-free experience.",
+    "type": "info",
+    "priority": "ads",
+    "created_date": "2026-01-04 13:00:00",
+    "expiry_date": "2026-01-11 13:00:00",
     "active": true,
     "shown_count": 0,
     "link_url": "https://yt-dowloader.netlify.app/"
