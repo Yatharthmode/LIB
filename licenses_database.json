@@ -1,0 +1,34 @@
+[
+  {
+    "license_key": "YT-PRO-2NKJFKDIW3URO",
+    "customer_name": "yat",
+    "customer_email": "yat",
+    "customer_phone": "",
+    "customer_company": "",
+    "license_type": "yearly",
+    "created_date": "2026-01-05",
+    "expiry_date": "2026-02-04",
+    "duration_days": 30,
+    "price": 3999,
+    "status": "active",
+    "activated": true,
+    "user_id": "YT_2B71A4D6E5E241FE",
+    "activation_date": "2026-01-05 20:28:36"
+  },
+  {
+    "license_key": "YT-PRO-X083QFXMFM1J2",
+    "customer_name": "YT",
+    "customer_email": "YYT",
+    "customer_phone": "",
+    "customer_company": "",
+    "license_type": "monthly",
+    "created_date": "2026-01-05",
+    "expiry_date": "2026-02-04",
+    "duration_days": 30,
+    "price": 499,
+    "status": "active",
+    "activated": true,
+    "user_id": "YT_2B71A4D6E5E241FE",
+    "activation_date": "2026-01-05 20:34:45"
+  }
+]
