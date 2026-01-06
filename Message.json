@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "⏰ 24 Hours Special Offer!",
-    "message": "RITI MERI RANI.!",
+    "message": "SPACIAL OFFER!",
     "type": "info",
     "priority": "ads",
     "created_date": "2026-01-06 13:00:00",
@@ -12,6 +12,7 @@
     "link_url": "https://yt-dowloader.netlify.app/"
   }
 ]
+
 
 
 
