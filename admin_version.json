@@ -1,15 +1,14 @@
 {
   "version": "2.0.1",
   "release_date": "2026-01-13",
-   "message": "🚀 Major update & bug fix",
+  "message": "🚀 Major update & bug fix",
   "download_url": "https://github.com/Yatharthmode/LIB/releases/latest",
   "changelog": [
-    "FIX BUG"
-    "Performance optimizations"
+    "Fixed critical bugs",
+    "Performance optimizations",
+    "Enhanced stability",
+    "Better user experience"
   ],
   "minimum_version": "2.0.1",
   "update_type": "major"
 }
-
-
-
