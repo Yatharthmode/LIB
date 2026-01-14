@@ -5,13 +5,11 @@
   "download_url": "https://github.com/Yatharthmode/LIB/releases/latest",
   "changelog": [
     "Added version checking system",
-    "Enhanced GitHub integration", 
-    "Improved license filtering",
-    "Added real-time statistics",
-    "Fixed security vulnerabilities",
+    "Enhanced GitHub integration",
     "Performance optimizations"
   ],
   "minimum_version": "2.0.1",
   "update_type": "major"
 }
+
 
