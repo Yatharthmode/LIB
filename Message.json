@@ -1,21 +1,14 @@
 [
   {
     "id": 1,
-    "title": " Happy maker Sankranti -Special Offer!",
-    "message": "SPACIAL OFFER!",
+    "title": "🎉 Makar Sankranti Special Offer!",
+    "message": "🔥 Limited Time Offer! Get premium features at a special price. Don’t miss out!",
     "type": "info",
     "priority": "ads",
     "created_date": "2026-01-14 13:00:00",
     "expiry_date": "2026-01-16 13:00:00",
     "active": true,
     "shown_count": 0,
-    "link_url": "https://yt-dowloader.netlify.app/"
+    "link_url": "https://yt-downloader.netlify.app/"
   }
 ]
-
-
-
-
-
-
-
