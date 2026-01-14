@@ -1,15 +1,15 @@
 {
   "version": "2.0.1",
   "release_date": "2026-01-13",
-  "message": "🚀 Major Update Available!\n\n✨ New Features:\n• Advanced License Filtering\n• GitHub Auto-Sync\n• Real-time Statistics\n• Enhanced Security\n• Bug Fixes & Performance Improvements\n\n🔧 Important: This update includes critical security patches and new features for better license management.",
+   "message": "🚀 Major update & bug fix",
   "download_url": "https://github.com/Yatharthmode/LIB/releases/latest",
   "changelog": [
-    "Added version checking system",
-    "Enhanced GitHub integration",
+    "FIX BUG"
     "Performance optimizations"
   ],
   "minimum_version": "2.0.1",
   "update_type": "major"
 }
+
 
 
