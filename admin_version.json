@@ -11,6 +11,7 @@
     "Fixed security vulnerabilities",
     "Performance optimizations"
   ],
-  "minimum_version": "2.0.0",
+  "minimum_version": "2.0.1",
   "update_type": "major"
 }
+
