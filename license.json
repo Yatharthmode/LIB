@@ -1,15 +1,19 @@
-{
-  "licenses": [
-    {
-      "key": "YT-RIHO-ICAO-T319-ZP2H",
-      "type": "premium",
-      "status": "active",
-      "created_date": "2026-01-01",
-      "expiry_date": "2027-01-01",
-      "used_by": null,
-      "used_date": null,
-      "max_downloads": 1000,
-      "downloads_used": 0
-    }
-  ]
-}
+[
+  {
+    "license_key": "YT-PRO-FDGXPMJALF6EN",
+    "customer_name": "ytyt",
+    "customer_email": "ytyty",
+    "customer_phone": "",
+    "customer_company": "",
+    "license_type": "lifetime",
+    "created_date": "2026-01-16",
+    "expiry_date": "2026-02-15",
+    "duration_days": 30,
+    "price": 9999,
+    "status": "active",
+    "activated": true,
+    "one_device": true,
+    "user_id": "YT_2B71A4D6E5E241FE",
+    "activation_date": "2026-01-16 01:17:42"
+  }
+]
