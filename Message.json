@@ -20,10 +20,11 @@
     "message": "🎉 26 January Special! Premium features par exclusive discount. Aaj hi claim karein!",
     "type": "info",
     "priority": "ads",
-    "created_date": "2026-01-26 00:00:00",
-    "expiry_date": "2026-01-27 23:59:59",
+    "created_date": "2026-01-18 00:00:00",
+    "expiry_date": "2026-01-28 23:59:59",
     "active": true,
     "shown_count": 0,
     "link_url": "https://yt-downloader.netlify.app/"
   }
 ]
+
