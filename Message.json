@@ -1,14 +1,14 @@
 [
   {
-    "id":1,
-    "title": "🇮🇳 Republic Day Special Offer!",
-    "message": "🎉 26 January Special! Premium features par exclusive discount. Aaj hi claim karein!",
+    "id": 1,
+    "title": "\ud83c\uddee\ud83c\uddf3 Republic Day Special Offer!",
+    "message": "\ud83c\udf89 26 January Special! Premium features par exclusive discount. Aaj hi claim karein!",
     "type": "info",
-    "priority": "ads",
-    "created_date": "2026-01-18 00:00:00",
-    "expiry_date": "2026-01-27 23:59:59",
+    "priority": "normal",
+    "created_date": "2026-01-18 00:50:28",
+    "expiry_date": "2026-02-03 00:50:28",
     "active": true,
-    "shown_count": 0,
+    "shown_count": 1,
+    "link_url": ""
   }
 ]
-
