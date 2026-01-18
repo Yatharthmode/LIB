@@ -1,30 +1,14 @@
 [
   {
-    "id": 1,
-    "title": "🎉 Makar Sankranti Special Offer!",
-    "message": "🔥 Limited Time Offer! Get premium features at a special price. Don’t miss out!",
-    "type": "info",
-    "priority": "ads",
-    "created_date": "2026-01-14 13:00:00",
-    "expiry_date": "2026-01-16 13:00:00",
-    "active": true,
-    "shown_count": 0,
-    "link_url": "https://yt-downloader.netlify.app/"
-  }
-]
-
-[
-  {
-    "id": 2,
+    "id":1,
     "title": "🇮🇳 Republic Day Special Offer!",
     "message": "🎉 26 January Special! Premium features par exclusive discount. Aaj hi claim karein!",
     "type": "info",
     "priority": "ads",
     "created_date": "2026-01-18 00:00:00",
-    "expiry_date": "2026-01-28 23:59:59",
+    "expiry_date": "2026-01-27 23:59:59",
     "active": true,
     "shown_count": 0,
     "link_url": "https://yt-downloader.netlify.app/"
   }
 ]
-
